@@ -5,7 +5,7 @@ Presentations and their notes that I presented at the Ham Radio Village for DefC
 This presentation goes a brief description of the Quansheng UV-K5, firmware hacking / mods, and a couple different hardware mods and hacks.
 
 *View in HTML format at: https://www.marlermedia.com/DC32/
-*View in PDF format at: https://www.marlermedia.com/DC32/Hacking_the_Quansheng_UV-K5_-_Aug 2024.pdf
+*View in PDF format at: https://www.marlermedia.com/DC32/Hacking_the_Quansheng_UV-K5_-_Aug_2024.pdf
 
 ## Additional information Links
 
